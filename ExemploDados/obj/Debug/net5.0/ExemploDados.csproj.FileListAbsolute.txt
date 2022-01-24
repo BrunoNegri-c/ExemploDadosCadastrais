@@ -1,0 +1,16 @@
+C:\ExemploDadosCadastrais\ExemploDados\bin\Debug\net5.0\ExemploDados.exe
+C:\ExemploDadosCadastrais\ExemploDados\bin\Debug\net5.0\ExemploDados.deps.json
+C:\ExemploDadosCadastrais\ExemploDados\bin\Debug\net5.0\ExemploDados.runtimeconfig.json
+C:\ExemploDadosCadastrais\ExemploDados\bin\Debug\net5.0\ExemploDados.runtimeconfig.dev.json
+C:\ExemploDadosCadastrais\ExemploDados\bin\Debug\net5.0\ExemploDados.dll
+C:\ExemploDadosCadastrais\ExemploDados\bin\Debug\net5.0\ref\ExemploDados.dll
+C:\ExemploDadosCadastrais\ExemploDados\bin\Debug\net5.0\ExemploDados.pdb
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ExemploDados.csproj.AssemblyReference.cache
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ExemploDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ExemploDados.AssemblyInfoInputs.cache
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ExemploDados.AssemblyInfo.cs
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ExemploDados.csproj.CoreCompileInputs.cache
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ExemploDados.dll
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ref\ExemploDados.dll
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ExemploDados.pdb
+C:\ExemploDadosCadastrais\ExemploDados\obj\Debug\net5.0\ExemploDados.genruntimeconfig.cache
